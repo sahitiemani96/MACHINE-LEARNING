@@ -1,2 +1,2 @@
-# MachineLearning_CS550_19556
+# MachineLearning
  Machine Learning CS550 19556
